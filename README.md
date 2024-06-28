@@ -1,1 +1,1 @@
-![Readme](https://github.com/LauraMilly/Calculadora/assets/163550002/d980e4d9-bfa0-4d7d-8fd2-c02f62a98ea1)
+![new](https://github.com/LauraMilly/Calculadora/assets/163550002/d58856a3-29cf-4097-8cd1-39b844ff4cee)
