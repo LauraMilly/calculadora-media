@@ -19,11 +19,12 @@ body {
 }
 
 .container h2 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration: underline;
-    text-decoration-color: #d269bc;
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: #f0f0f0;
 }
+
 
 form {
     display: grid;
@@ -37,11 +38,20 @@ label {
     color: #f0f0f0;
 }
 
+input[type="number"]{
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 4px;
+    background: none; 
+}
+
 input[type="text"] {
     padding: 8px;
-    border: 1px solid #ccc;
+    border: none;
+    border-bottom: 1px solid #ffffff;
     border-radius: 4px;
-    background-color: rgba(0, 0, 0, 0.10)
+    background: none;
 }
 
 input, button {
